@@ -1,10 +1,9 @@
 # Evaluation of an LLM in Generating Python Code Using Formal Verification Concepts
 
 Course project for CS-536 *Science of Programming* (Fall 2026).
-Section: 03
-Professor: Dr. Xiaolong Wang
-Essay
-## About
+- **Section:** 03
+- **Professor:** Dr. Xiaolong Wang
+- **Type:** Essay
 
 This project checks whether an LLM writes Python programs that are correct under the standards of the Science of Programming: Hoare triples, loop invariants, bound functions and total correctness.
 
